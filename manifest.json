@@ -1,0 +1,11 @@
+{
+  "namespace": "goblingame",
+  "name": "HunterCN",
+  "description": "对猎人mod配置菜单进行汉化",
+  "version_number": "1.2.1",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.75301"
+  ],
+  "website_url": "https://github.com/goblin7878/PEAK-HunterCN",
+  "FullName": "goblingame.HunterCN"
+}

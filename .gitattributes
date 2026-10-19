@@ -1,0 +1,7 @@
+# 默认自动处理文本换行
+* text=auto
+
+# 二进制文件，避免换行转换导致损坏
+*.dll binary
+*.png binary
+plugins/assets/* binary

@@ -1,0 +1,13 @@
+# 构建产物
+bin/
+obj/
+.vs/
+*.user
+
+# 发布压缩包（由 GitHub Release 托管）
+*.zip
+dist/
+
+# 系统文件
+Thumbs.db
+.DS_Store
